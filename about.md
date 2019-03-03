@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+简书博客地址: https://www.jianshu.com/u/572268941378
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Github仓库地址: https://github.com/windstamp
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zklinsh@163.com](mailto:zklinsh@163.com)
